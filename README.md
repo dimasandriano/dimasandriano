@@ -1,9 +1,15 @@
-- 👋 Hi, I’m Dimas Andriano
-- 👀 I’m interested in Web Developer 
-- 🌱 I’m currently learning Tailwindcss, laravel, and React JS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<h1 align="center">👋 Hi, I’m Dimas Andriano</h1>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=duangdeong" alt="Dimas Andriano" /></a> </p>
 
+- 👀 I’m interested in **Web Developer** <br>
+- 🌱 I’m currently learning **Tailwindcss, laravel, and React JS** <br>
+- 📫 How to reach me **duangdeong@gmail.com** <br>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://fb.com/dimas.andriano.h" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Dimas Andriano" height="30" width="40" /></a>
+<a href="https://instagram.com/dimas.andriano.h" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Dimas Andriano" height="30" width="40" /></a>
+</p>
 <!---
 duangdeong/duangdeong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
