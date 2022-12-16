@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I’m Dimas Andriano</h1>
 <hr>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=duangdeong&theme=darkhub&column=5&margin-w=15&margin-h=15" alt="Dimas Andriano" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=duangdeong&no-bg=true&column=5&margin-w=15&margin-h=15" alt="Dimas Andriano" /></a> </p>
 
 - 👀 I’m interested in **Web Developer** <br>
 - 🌱 I’m currently learning **Tailwindcss, Laravel, and React JS** <br>
