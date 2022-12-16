@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I’m Dimas Andriano</h1>
 <hr>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=duangdeong" alt="Dimas Andriano" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=duangdeong&theme=darkhub&column=5&margin-w=15&margin-h=15" alt="Dimas Andriano" /></a> </p>
 
 - 👀 I’m interested in **Web Developer** <br>
 - 🌱 I’m currently learning **Tailwindcss, laravel, and React JS** <br>
@@ -13,9 +13,9 @@
 </p>
 <hr>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=duangdeong&show_icons=true&locale=en&layout=compact" alt="Dimas Andriano" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=duangdeong&show_icons=true&locale=en&layout=compact&theme=transparent" alt="Dimas Andriano" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=duangdeong&show_icons=true&locale=en" alt="Dimas Andriano" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=duangdeong&show_icons=true&locale=en&theme=transparent" alt="Dimas Andriano" /></p>
 <!---
 duangdeong/duangdeong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
