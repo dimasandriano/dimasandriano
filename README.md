@@ -3,7 +3,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=duangdeong&theme=darkhub&column=5&margin-w=15&margin-h=15" alt="Dimas Andriano" /></a> </p>
 
 - 👀 I’m interested in **Web Developer** <br>
-- 🌱 I’m currently learning **Tailwindcss, laravel, and React JS** <br>
+- 🌱 I’m currently learning **Tailwindcss, Laravel, and React JS** <br>
 - 📫 How to reach me **duangdeong@gmail.com** <br>
 
 <h3 align="left">Connect with me:</h3>
