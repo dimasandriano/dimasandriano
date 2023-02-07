@@ -1,5 +1,4 @@
 <h1>Hi, I’m Dimas Andriano 👋</h1>
-<hr>
 - 👀 I’m interested in **Web Developer** <br>
 - 🌱 I’m currently learning **Tailwindcss, Laravel, and React JS** <br>
 - 📫 How to reach me **dimas.andriano.h@gmail.com** <br>
